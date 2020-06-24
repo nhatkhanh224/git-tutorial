@@ -1,3 +1,3 @@
-function Player(params) {
+function player() {
     
-}
+};
